@@ -1,2 +1,2 @@
-﻿# Note
-个人流水账
+﻿# UED
+Personal notes
